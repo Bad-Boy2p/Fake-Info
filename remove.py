@@ -41,7 +41,7 @@ banner = red + """
                                                                
                                                                
  
- os.system("clear")
+os.system("clear")
 print(banner)
 print(info + "start removing  ...............")
 sleep(2)
