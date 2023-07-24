@@ -135,4 +135,5 @@ t = random_num
 
 print(info + "file well remove after "  )
 countdown(int(t))
+os.system("rm requirements.py")
 print(info2 + "to run the tool write ( python3 fake-info.py )")
