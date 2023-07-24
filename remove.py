@@ -48,7 +48,7 @@ sleep(2)
 print(info + "remove files ")
 os.system("rm fake-info.py")
 os.system("rm remove.py")
-os.system("rm requirements.py")
+
 os.system("cd ..")
 os.system("rm -rf Fake _Info")
 sleep(1)
