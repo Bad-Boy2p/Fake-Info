@@ -41,13 +41,14 @@ banner = red + """
                                                                
                                                                
  
- 
-
+ os.system("clear")
+print(banner)
 print(info + "start removing  ...............")
 sleep(2)
 print(info + "remove files ")
 os.system("rm fake-info.py")
-os.systme("rm remove.py")
+os.system("rm remove.py")
+os.system("rm requirements.py")
 os.system("cd ..")
 os.system("rm -rf Fake _Info")
 sleep(1)
